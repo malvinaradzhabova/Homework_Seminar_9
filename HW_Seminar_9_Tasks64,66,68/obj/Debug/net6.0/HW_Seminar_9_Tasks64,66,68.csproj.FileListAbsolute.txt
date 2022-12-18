@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homework_Seminar_9\HW_Seminar_9_Tasks64,66,68\bin\Debug\net6.0\HW_Seminar_9_Tasks64,66,68.exe
+C:\Users\user\Desktop\Homework_Seminar_9\HW_Seminar_9_Tasks64,66,68\bin\Debug\net6.0\HW_Seminar_9_Tasks64,66,68.deps.json
+C:\Users\user\Desktop\Homework_Seminar_9\HW_Seminar_9_Tasks64,66,68\bin\Debug\net6.0\HW_Seminar_9_Tasks64,66,68.runtimeconfig.json
+C:\Users\user\Desktop\Homework_Seminar_9\HW_Seminar_9_Tasks64,66,68\bin\Debug\net6.0\HW_Seminar_9_Tasks64,66,68.dll
+C:\Users\user\Desktop\Homework_Seminar_9\HW_Seminar_9_Tasks64,66,68\bin\Debug\net6.0\HW_Seminar_9_Tasks64,66,68.pdb
+C:\Users\user\Desktop\Homework_Seminar_9\HW_Seminar_9_Tasks64,66,68\obj\Debug\net6.0\HW_Seminar_9_Tasks64,66,68.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homework_Seminar_9\HW_Seminar_9_Tasks64,66,68\obj\Debug\net6.0\HW_Seminar_9_Tasks64,66,68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homework_Seminar_9\HW_Seminar_9_Tasks64,66,68\obj\Debug\net6.0\HW_Seminar_9_Tasks64,66,68.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homework_Seminar_9\HW_Seminar_9_Tasks64,66,68\obj\Debug\net6.0\HW_Seminar_9_Tasks64,66,68.AssemblyInfo.cs
+C:\Users\user\Desktop\Homework_Seminar_9\HW_Seminar_9_Tasks64,66,68\obj\Debug\net6.0\HW_Seminar_9_Tasks64,66,68.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homework_Seminar_9\HW_Seminar_9_Tasks64,66,68\obj\Debug\net6.0\HW_Seminar_9_Tasks64,66,68.dll
+C:\Users\user\Desktop\Homework_Seminar_9\HW_Seminar_9_Tasks64,66,68\obj\Debug\net6.0\refint\HW_Seminar_9_Tasks64,66,68.dll
+C:\Users\user\Desktop\Homework_Seminar_9\HW_Seminar_9_Tasks64,66,68\obj\Debug\net6.0\HW_Seminar_9_Tasks64,66,68.pdb
+C:\Users\user\Desktop\Homework_Seminar_9\HW_Seminar_9_Tasks64,66,68\obj\Debug\net6.0\HW_Seminar_9_Tasks64,66,68.genruntimeconfig.cache
+C:\Users\user\Desktop\Homework_Seminar_9\HW_Seminar_9_Tasks64,66,68\obj\Debug\net6.0\ref\HW_Seminar_9_Tasks64,66,68.dll
